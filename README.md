@@ -1,156 +1,69 @@
-### CardioAstra
+#### ❤️ CardioAstra
+
+CardioAstra is an AI-based heart health monitoring system that analyzes heart rate data to detect dangerous or abnormal conditions at an early stage.
+The project uses machine learning to identify risk patterns and provides results through a simple web interface.
+
+#### Features
+
+📊 Analyzes heart rate data to detect dangerous conditions
+
+🤖 Uses a trained Machine Learning model for prediction
+
+🌐 Web interface for user interaction (login & dashboard)
+
+⚡ Backend server to process data and return results
+
+📁 Supports CSV-based heart rate datasets
 
 
+#### Technologies Used
 
-CardioAstra is an AI-based heart health monitoring system that detects
+-- Python
 
-dangerous heart rate patterns using machine learning.
+-- Machine Learning (Scikit-learn)
 
+-- Flask (Backend Server)
 
+-- HTML (Frontend Templates)
 
-This project is developed as an academic prototype combining
+-- Arduino (for sensor data – optional/experimental)
 
-Artificial Intelligence, backend development, and basic IoT concepts.
+-- CSV datasets
 
-
-
----
-
-
-
-### Features
-
-
-
-\-- Heart rate danger prediction using Machine Learning
-
-\-- Flask-based backend server
-
-\-- Simple web interface for user interaction
-
-\-- Supports CSV-based heart rate datasets
-
-\-- Arduino sensor code included (optional)
-
-
-
----
-
-
-
-### Technologies Used
-
-
-
-\-- Python
-
-\-- Flask
-
-\-- Scikit-learn
-
-\-- HTML
-
-\-- Arduino
-
-\-- CSV
-
-
-
----
-
-
-
-\## Project Structure
-
-
-
+#### 📂 Project Structure
 CARDIO ASTRA/
+│
+├── model.py                     # ML model training and prediction
+├── server.py                    # Flask backend server
+├── heart_danger_pipeline.pkl    # Trained ML model
+├── danger_heart_rate_data.csv   # Dataset
+├── arduino.c                    # Arduino sensor code
+│
+├── templates/
+│   ├── login.html               # Login page
+│   └── index.html               # Main dashboard
+│
+└── README.md
 
-\- model.py
+#### ⚙️ How It Works
 
-\- server.py
+Heart rate data is collected (from dataset or sensors)
 
-\- heart\_danger\_pipeline.pkl
+The ML model analyzes the data
 
-\- danger\_heart\_rate\_data.csv
+Risk patterns are detected
 
-\- arduino.c
+The server sends results to the web interface
 
-\- templates/
+Users can view alerts or health status
 
-&nbsp; - login.html
+#### ▶️How to Run the Project
 
-&nbsp; - index.html
+1️⃣ Install dependencies
+pip install flask scikit-learn pandas numpy
 
-\- README.md
+2️⃣ Run the server
+python server.py
 
-
-
----
-
-
-
-\## How to Run the Project
-
-
-
-1\. Install required libraries:
-
-&nbsp;  pip install flask scikit-learn pandas numpy
-
-
-
-2\. Run the backend server:
-
-&nbsp;  python server.py
-
-
-
-3\. Open your browser and visit:
-
-&nbsp;  http://127.0.0.1:5000/
-
-
-
----
-
-
-
-\## Use Cases
-
-
-
-\- Heart health monitoring systems
-
-\- AI-based healthcare research
-
-\- Academic mini and major projects
-
-
-
----
-
-
-
-\## Disclaimer
-
-
-
-This project is for educational purposes only.
-
-It is not intended for real medical diagnosis.
-
-
-
----
-
-
-
-\## Author
-
-
-
-Narasimha Murthy  
-
-GitHub: https://github.com/narasimhamurthy2005
-
+3️⃣ Open in browser
+http://127.0.0.1:5000/
