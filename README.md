@@ -60,7 +60,7 @@ Users can view alerts or health status
 # ▶️How to Run the Project
 
 1️⃣ Install dependencies
-pip install flask scikit-learn pandas numpy
+<br>
 
 2️⃣ Run the server
 python server.py
