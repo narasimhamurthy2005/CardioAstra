@@ -39,7 +39,7 @@ CARDIO ASTRA/<br>
 ├── danger_heart_rate_data.csv <br>  
 ├── arduino.c              <br>      
 │
-├── templates/<br>
+├── templates/<br><br>
 │   ├── login.html   <br>           
 │   └── index.html   <br>          
 │
@@ -66,4 +66,4 @@ pip install flask scikit-learn pandas numpy
 python server.py
 
 3️⃣ Open in browser
-http://127.0.0.1:5000/
+
