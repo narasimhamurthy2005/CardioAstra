@@ -1,4 +1,4 @@
-\# CardioAstra
+### CardioAstra
 
 
 
@@ -18,19 +18,19 @@ Artificial Intelligence, backend development, and basic IoT concepts.
 
 
 
-\## Features
+### Features
 
 
 
-\- Heart rate danger prediction using Machine Learning
+\-- Heart rate danger prediction using Machine Learning
 
-\- Flask-based backend server
+\-- Flask-based backend server
 
-\- Simple web interface for user interaction
+\-- Simple web interface for user interaction
 
-\- Supports CSV-based heart rate datasets
+\-- Supports CSV-based heart rate datasets
 
-\- Arduino sensor code included (optional)
+\-- Arduino sensor code included (optional)
 
 
 
@@ -38,21 +38,21 @@ Artificial Intelligence, backend development, and basic IoT concepts.
 
 
 
-\## Technologies Used
+### Technologies Used
 
 
 
-\- Python
+\-- Python
 
-\- Flask
+\-- Flask
 
-\- Scikit-learn
+\-- Scikit-learn
 
-\- HTML
+\-- HTML
 
-\- Arduino
+\-- Arduino
 
-\- CSV
+\-- CSV
 
 
 
