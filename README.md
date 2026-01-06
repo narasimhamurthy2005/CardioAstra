@@ -1,9 +1,9 @@
-###### ❤️ CardioAstra
+# ❤️ CardioAstra
 
 CardioAstra is an AI-based heart health monitoring system that analyzes heart rate data to detect dangerous or abnormal conditions at an early stage.
 The project uses machine learning to identify risk patterns and provides results through a simple web interface.
 
-###### Features
+# Features
 
 📊 Analyzes heart rate data to detect dangerous conditions
 
@@ -16,7 +16,7 @@ The project uses machine learning to identify risk patterns and provides results
 📁 Supports CSV-based heart rate datasets
 
 
-###### Technologies Used
+# Technologies Used
 
 -- Python
 
@@ -30,7 +30,7 @@ The project uses machine learning to identify risk patterns and provides results
 
 -- CSV datasets
 
-###### 📂 Project Structure
+# 📂 Project Structure
 CARDIO ASTRA/<br>
 │
 ├── model.py         <br>            # ML model training and prediction
@@ -45,7 +45,7 @@ CARDIO ASTRA/<br>
 │
 └── README.md<br>
 
-###### ⚙️ How It Works
+# ⚙️ How It Works
 
 Heart rate data is collected (from dataset or sensors)
 
@@ -57,7 +57,7 @@ The server sends results to the web interface
 
 Users can view alerts or health status
 
-###### ▶️How to Run the Project
+# ▶️How to Run the Project
 
 1️⃣ Install dependencies
 pip install flask scikit-learn pandas numpy
