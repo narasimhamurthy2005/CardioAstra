@@ -33,15 +33,15 @@ The project uses machine learning to identify risk patterns and provides results
 # 📂 Project Structure
 CARDIO ASTRA/<br>
 │
-├── model.py         <br>            # ML model training and prediction
-├── server.py        <br>            # Flask backend server
-├── heart_danger_pipeline.pkl <br>   # Trained ML model
-├── danger_heart_rate_data.csv <br>  # Dataset
-├── arduino.c              <br>      # Arduino sensor code
+├── model.py         <br>    
+├── server.py        <br>            
+├── heart_danger_pipeline.pkl <br>   
+├── danger_heart_rate_data.csv <br>  
+├── arduino.c              <br>      
 │
 ├── templates/<br>
-│   ├── login.html   <br>            # Login page
-│   └── index.html   <br>          # Main dashboard
+│   ├── login.html   <br>           
+│   └── index.html   <br>          
 │
 └── README.md<br>
 
