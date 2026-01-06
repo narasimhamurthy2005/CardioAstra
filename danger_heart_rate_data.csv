@@ -1,0 +1,1001 @@
+age,bpm,activity,stress_level,danger_flag,danger_type
+43,85,resting,low,0,Normal
+43,72,walking,low,0,Normal
+30,80,walking,low,0,Normal
+24,83,resting,low,0,Normal
+39,68,resting,low,0,Normal
+18,86,walking,medium,0,Normal
+40,66,walking,low,0,Normal
+27,73,walking,low,0,Normal
+41,77,walking,medium,0,Normal
+42,88,walking,medium,0,Normal
+43,76,walking,low,0,Normal
+39,95,resting,medium,0,Normal
+42,82,walking,medium,0,Normal
+19,69,walking,medium,0,Normal
+40,73,walking,low,0,Normal
+29,88,resting,medium,0,Normal
+20,70,resting,medium,0,Normal
+42,76,walking,low,0,Normal
+48,65,resting,low,0,Normal
+20,71,resting,low,0,Normal
+31,92,resting,low,0,Normal
+41,85,walking,medium,0,Normal
+40,61,walking,medium,0,Normal
+43,87,resting,low,0,Normal
+29,82,resting,medium,0,Normal
+44,65,walking,low,0,Normal
+39,85,resting,low,0,Normal
+25,93,walking,low,0,Normal
+20,80,resting,medium,0,Normal
+20,81,resting,low,0,Normal
+46,87,walking,low,0,Normal
+50,86,resting,medium,0,Normal
+29,60,resting,medium,0,Normal
+19,69,resting,low,0,Normal
+25,68,resting,low,0,Normal
+42,79,walking,medium,0,Normal
+49,73,resting,low,0,Normal
+27,86,walking,medium,0,Normal
+19,82,resting,medium,0,Normal
+49,90,walking,low,0,Normal
+31,70,resting,low,0,Normal
+27,72,resting,medium,0,Normal
+29,68,walking,medium,0,Normal
+47,87,walking,low,0,Normal
+39,82,resting,medium,0,Normal
+33,93,walking,medium,0,Normal
+38,95,walking,low,0,Normal
+36,89,resting,medium,0,Normal
+33,83,walking,low,0,Normal
+46,64,resting,low,0,Normal
+36,92,walking,medium,0,Normal
+43,83,walking,low,0,Normal
+29,95,walking,low,0,Normal
+19,95,walking,low,0,Normal
+37,83,resting,low,0,Normal
+41,65,resting,medium,0,Normal
+42,76,walking,medium,0,Normal
+25,90,walking,low,0,Normal
+24,78,walking,low,0,Normal
+33,79,resting,medium,0,Normal
+23,81,resting,low,0,Normal
+45,94,resting,medium,0,Normal
+31,61,resting,low,0,Normal
+29,75,walking,low,0,Normal
+36,81,walking,low,0,Normal
+43,66,walking,medium,0,Normal
+44,65,resting,medium,0,Normal
+34,82,walking,low,0,Normal
+32,88,resting,medium,0,Normal
+34,68,resting,low,0,Normal
+47,66,resting,medium,0,Normal
+26,78,walking,medium,0,Normal
+32,64,resting,low,0,Normal
+19,75,walking,low,0,Normal
+39,65,walking,medium,0,Normal
+24,61,walking,low,0,Normal
+19,60,walking,low,0,Normal
+33,88,walking,medium,0,Normal
+39,80,resting,low,0,Normal
+44,61,resting,low,0,Normal
+19,79,walking,low,0,Normal
+19,75,walking,medium,0,Normal
+49,83,walking,low,0,Normal
+26,92,walking,medium,0,Normal
+36,66,walking,medium,0,Normal
+22,91,walking,medium,0,Normal
+28,81,walking,low,0,Normal
+28,77,walking,medium,0,Normal
+38,87,walking,low,0,Normal
+32,88,resting,medium,0,Normal
+49,91,walking,medium,0,Normal
+39,77,resting,medium,0,Normal
+36,73,walking,medium,0,Normal
+29,79,resting,medium,0,Normal
+30,86,resting,medium,0,Normal
+40,62,walking,medium,0,Normal
+25,78,resting,low,0,Normal
+35,67,walking,medium,0,Normal
+20,83,resting,low,0,Normal
+33,67,walking,medium,0,Normal
+22,92,walking,medium,0,Normal
+26,74,walking,medium,0,Normal
+49,78,resting,medium,0,Normal
+42,91,resting,low,0,Normal
+18,64,walking,medium,0,Normal
+33,68,resting,medium,0,Normal
+23,62,resting,medium,0,Normal
+22,71,walking,low,0,Normal
+43,67,resting,medium,0,Normal
+36,72,walking,medium,0,Normal
+46,68,walking,medium,0,Normal
+20,66,walking,low,0,Normal
+36,60,resting,low,0,Normal
+47,68,walking,medium,0,Normal
+18,84,resting,low,0,Normal
+34,72,walking,low,0,Normal
+24,75,walking,medium,0,Normal
+37,76,resting,low,0,Normal
+32,84,walking,low,0,Normal
+44,82,resting,low,0,Normal
+43,60,resting,low,0,Normal
+21,60,walking,low,0,Normal
+22,79,resting,medium,0,Normal
+37,74,walking,medium,0,Normal
+42,84,walking,medium,0,Normal
+41,83,walking,low,0,Normal
+18,80,walking,low,0,Normal
+44,65,resting,low,0,Normal
+47,81,walking,low,0,Normal
+38,73,resting,low,0,Normal
+23,61,walking,medium,0,Normal
+23,94,walking,medium,0,Normal
+49,68,walking,low,0,Normal
+21,64,resting,low,0,Normal
+24,92,resting,medium,0,Normal
+18,85,resting,medium,0,Normal
+33,85,walking,low,0,Normal
+41,61,resting,low,0,Normal
+39,85,resting,medium,0,Normal
+50,74,walking,low,0,Normal
+36,69,resting,low,0,Normal
+42,64,walking,medium,0,Normal
+39,65,resting,medium,0,Normal
+24,77,walking,low,0,Normal
+33,65,walking,medium,0,Normal
+47,85,resting,medium,0,Normal
+30,81,resting,medium,0,Normal
+42,80,walking,medium,0,Normal
+27,95,walking,medium,0,Normal
+47,94,resting,medium,0,Normal
+47,69,walking,low,0,Normal
+35,75,walking,medium,0,Normal
+49,84,walking,medium,0,Normal
+45,90,walking,low,0,Normal
+20,78,resting,medium,0,Normal
+41,66,walking,low,0,Normal
+33,79,resting,low,0,Normal
+48,72,walking,medium,0,Normal
+34,60,resting,low,0,Normal
+31,86,resting,low,0,Normal
+18,82,resting,medium,0,Normal
+24,69,walking,medium,0,Normal
+29,93,resting,low,0,Normal
+26,90,resting,medium,0,Normal
+21,73,walking,low,0,Normal
+42,72,walking,low,0,Normal
+36,75,walking,medium,0,Normal
+38,80,walking,medium,0,Normal
+33,86,walking,low,0,Normal
+44,60,resting,medium,0,Normal
+26,66,walking,low,0,Normal
+30,83,walking,medium,0,Normal
+29,86,resting,medium,0,Normal
+43,80,walking,low,0,Normal
+29,80,walking,low,0,Normal
+39,87,walking,medium,0,Normal
+29,87,walking,low,0,Normal
+35,95,resting,low,0,Normal
+36,82,walking,low,0,Normal
+45,76,resting,low,0,Normal
+23,69,resting,medium,0,Normal
+31,65,resting,medium,0,Normal
+50,86,resting,low,0,Normal
+25,89,walking,low,0,Normal
+25,79,walking,medium,0,Normal
+45,69,walking,low,0,Normal
+42,87,walking,low,0,Normal
+43,69,resting,low,0,Normal
+41,90,resting,medium,0,Normal
+36,78,resting,low,0,Normal
+44,91,walking,medium,0,Normal
+46,76,resting,low,0,Normal
+20,77,walking,low,0,Normal
+39,81,resting,medium,0,Normal
+18,89,resting,low,0,Normal
+33,95,walking,low,0,Normal
+32,71,walking,low,0,Normal
+20,61,walking,medium,0,Normal
+44,75,walking,medium,0,Normal
+40,93,resting,low,0,Normal
+31,95,walking,low,0,Normal
+48,71,walking,low,0,Normal
+22,87,resting,low,0,Normal
+28,66,resting,low,0,Normal
+43,77,walking,medium,0,Normal
+24,90,resting,medium,0,Normal
+21,80,resting,low,0,Normal
+36,83,resting,low,0,Normal
+18,93,walking,medium,0,Normal
+36,61,resting,medium,0,Normal
+30,75,walking,low,0,Normal
+26,73,walking,low,0,Normal
+21,80,resting,medium,0,Normal
+27,64,walking,low,0,Normal
+36,71,resting,low,0,Normal
+50,93,walking,low,0,Normal
+19,70,resting,medium,0,Normal
+18,93,resting,low,0,Normal
+26,93,resting,low,0,Normal
+43,62,walking,medium,0,Normal
+20,88,walking,low,0,Normal
+47,77,resting,low,0,Normal
+29,93,resting,medium,0,Normal
+38,78,resting,low,0,Normal
+21,75,resting,medium,0,Normal
+42,89,walking,low,0,Normal
+18,94,resting,low,0,Normal
+46,63,resting,medium,0,Normal
+45,70,resting,medium,0,Normal
+34,90,walking,low,0,Normal
+37,78,walking,low,0,Normal
+41,94,resting,low,0,Normal
+41,90,walking,low,0,Normal
+26,93,resting,low,0,Normal
+40,89,walking,low,0,Normal
+34,88,walking,medium,0,Normal
+38,74,walking,low,0,Normal
+43,72,resting,low,0,Normal
+49,90,resting,low,0,Normal
+39,72,resting,medium,0,Normal
+18,64,walking,medium,0,Normal
+23,63,walking,low,0,Normal
+45,60,resting,low,0,Normal
+36,61,walking,medium,0,Normal
+44,91,walking,low,0,Normal
+34,92,walking,low,0,Normal
+27,78,resting,medium,0,Normal
+29,74,resting,medium,0,Normal
+21,65,walking,low,0,Normal
+18,67,resting,low,0,Normal
+23,95,walking,medium,0,Normal
+39,75,resting,low,0,Normal
+20,61,walking,low,0,Normal
+26,94,walking,medium,0,Normal
+45,72,resting,low,0,Normal
+36,82,resting,medium,0,Normal
+29,64,walking,medium,0,Normal
+26,92,walking,medium,0,Normal
+45,71,resting,medium,0,Normal
+29,89,walking,low,0,Normal
+46,70,resting,low,0,Normal
+38,95,resting,low,0,Normal
+28,80,resting,low,0,Normal
+27,88,walking,medium,0,Normal
+18,63,resting,medium,0,Normal
+24,89,walking,low,0,Normal
+27,61,walking,low,0,Normal
+46,76,walking,low,0,Normal
+34,80,walking,medium,0,Normal
+21,86,walking,low,0,Normal
+21,82,resting,low,0,Normal
+31,65,walking,medium,0,Normal
+37,73,resting,medium,0,Normal
+45,95,resting,medium,0,Normal
+41,93,walking,medium,0,Normal
+28,73,resting,medium,0,Normal
+33,80,resting,low,0,Normal
+31,86,walking,low,0,Normal
+25,83,resting,low,0,Normal
+43,72,walking,medium,0,Normal
+44,93,walking,medium,0,Normal
+21,71,walking,low,0,Normal
+44,89,walking,low,0,Normal
+18,61,resting,low,0,Normal
+21,95,resting,low,0,Normal
+47,70,walking,medium,0,Normal
+20,94,walking,low,0,Normal
+38,70,resting,low,0,Normal
+45,60,resting,low,0,Normal
+45,86,resting,low,0,Normal
+45,82,walking,low,0,Normal
+18,82,walking,medium,0,Normal
+30,95,resting,low,0,Normal
+39,65,resting,medium,0,Normal
+35,65,resting,medium,0,Normal
+34,74,resting,low,0,Normal
+50,83,walking,medium,0,Normal
+21,68,walking,low,0,Normal
+49,82,walking,medium,0,Normal
+32,74,walking,low,0,Normal
+33,64,resting,medium,0,Normal
+23,67,walking,low,0,Normal
+18,80,resting,low,0,Normal
+34,87,resting,medium,0,Normal
+27,85,walking,low,0,Normal
+38,79,walking,low,0,Normal
+43,93,walking,medium,0,Normal
+28,93,resting,medium,0,Normal
+50,74,resting,medium,0,Normal
+38,91,resting,low,0,Normal
+28,92,walking,low,0,Normal
+38,64,walking,medium,0,Normal
+25,70,walking,medium,0,Normal
+41,94,resting,medium,0,Normal
+44,76,walking,low,0,Normal
+42,69,walking,low,0,Normal
+50,77,resting,medium,0,Normal
+29,93,walking,low,0,Normal
+44,64,walking,low,0,Normal
+46,79,resting,medium,0,Normal
+32,84,walking,low,0,Normal
+49,81,resting,low,0,Normal
+32,94,walking,medium,0,Normal
+47,86,walking,low,0,Normal
+39,85,resting,low,0,Normal
+32,64,walking,low,0,Normal
+26,72,resting,low,0,Normal
+37,91,resting,low,0,Normal
+28,78,resting,medium,0,Normal
+24,90,resting,low,0,Normal
+31,71,walking,medium,0,Normal
+36,90,resting,low,0,Normal
+38,93,resting,medium,0,Normal
+42,94,resting,low,0,Normal
+19,82,resting,low,0,Normal
+25,91,resting,medium,0,Normal
+29,82,walking,medium,0,Normal
+20,72,resting,low,0,Normal
+36,72,resting,medium,0,Normal
+42,94,walking,medium,0,Normal
+34,82,walking,medium,0,Normal
+31,82,resting,low,0,Normal
+18,62,resting,low,0,Normal
+31,77,walking,low,0,Normal
+30,74,walking,low,0,Normal
+25,73,resting,low,0,Normal
+19,80,resting,low,0,Normal
+48,72,walking,low,0,Normal
+25,60,walking,low,0,Normal
+41,67,walking,medium,0,Normal
+47,94,walking,medium,0,Normal
+33,94,walking,low,0,Normal
+44,94,walking,medium,0,Normal
+30,66,resting,low,0,Normal
+38,75,resting,medium,0,Normal
+35,76,walking,medium,0,Normal
+23,77,walking,low,0,Normal
+23,62,resting,medium,0,Normal
+19,71,resting,medium,0,Normal
+48,88,walking,low,0,Normal
+47,72,walking,medium,0,Normal
+35,63,walking,medium,0,Normal
+42,93,resting,low,0,Normal
+21,74,resting,low,0,Normal
+38,84,walking,low,0,Normal
+47,79,resting,low,0,Normal
+33,84,walking,medium,0,Normal
+27,73,resting,low,0,Normal
+23,73,resting,low,0,Normal
+46,88,resting,low,0,Normal
+42,83,walking,medium,0,Normal
+34,79,resting,low,0,Normal
+42,90,walking,medium,0,Normal
+48,76,walking,medium,0,Normal
+28,73,resting,low,0,Normal
+49,73,resting,low,0,Normal
+28,87,walking,medium,0,Normal
+31,60,walking,low,0,Normal
+41,67,walking,low,0,Normal
+44,92,resting,medium,0,Normal
+42,85,resting,low,0,Normal
+28,68,walking,low,0,Normal
+39,64,resting,low,0,Normal
+44,66,resting,medium,0,Normal
+29,87,resting,low,0,Normal
+27,63,walking,low,0,Normal
+26,91,walking,low,0,Normal
+28,67,resting,low,0,Normal
+24,61,resting,low,0,Normal
+27,70,walking,medium,0,Normal
+44,82,resting,low,0,Normal
+30,91,walking,low,0,Normal
+39,65,walking,low,0,Normal
+21,86,resting,medium,0,Normal
+24,60,walking,low,0,Normal
+43,82,walking,medium,0,Normal
+37,73,resting,low,0,Normal
+32,69,resting,medium,0,Normal
+29,92,resting,low,0,Normal
+46,77,resting,medium,0,Normal
+41,93,walking,low,0,Normal
+42,81,resting,medium,0,Normal
+39,95,resting,medium,0,Normal
+43,61,resting,medium,0,Normal
+21,88,walking,medium,0,Normal
+47,64,walking,medium,0,Normal
+43,86,resting,medium,0,Normal
+20,91,resting,low,0,Normal
+19,92,resting,medium,0,Normal
+34,95,resting,medium,0,Normal
+49,77,walking,low,0,Normal
+50,66,resting,low,0,Normal
+50,67,resting,low,0,Normal
+30,76,resting,medium,0,Normal
+22,66,resting,medium,0,Normal
+29,89,resting,medium,0,Normal
+48,83,resting,low,0,Normal
+38,70,resting,low,0,Normal
+25,94,walking,low,0,Normal
+30,85,resting,low,0,Normal
+46,87,resting,medium,0,Normal
+22,87,walking,low,0,Normal
+30,78,walking,medium,0,Normal
+47,89,walking,medium,0,Normal
+42,91,walking,low,0,Normal
+35,75,resting,low,0,Normal
+21,73,resting,medium,0,Normal
+23,90,walking,low,0,Normal
+37,86,walking,medium,0,Normal
+49,77,resting,medium,0,Normal
+37,86,walking,medium,0,Normal
+42,84,resting,low,0,Normal
+31,94,walking,medium,0,Normal
+44,75,walking,medium,0,Normal
+50,64,resting,low,0,Normal
+27,78,walking,medium,0,Normal
+31,85,walking,medium,0,Normal
+37,76,resting,low,0,Normal
+49,82,walking,medium,0,Normal
+48,93,walking,low,0,Normal
+36,78,resting,medium,0,Normal
+50,78,resting,low,0,Normal
+28,83,walking,medium,0,Normal
+20,78,walking,low,0,Normal
+30,67,resting,medium,0,Normal
+24,83,resting,medium,0,Normal
+19,77,resting,low,0,Normal
+31,77,resting,medium,0,Normal
+47,95,walking,low,0,Normal
+24,82,walking,low,0,Normal
+39,90,walking,low,0,Normal
+45,83,resting,low,0,Normal
+31,95,walking,low,0,Normal
+43,86,resting,low,0,Normal
+36,82,resting,medium,0,Normal
+31,71,resting,low,0,Normal
+27,66,walking,medium,0,Normal
+38,61,walking,medium,0,Normal
+21,67,walking,low,0,Normal
+25,60,walking,low,0,Normal
+27,63,walking,medium,0,Normal
+18,84,resting,medium,0,Normal
+42,81,resting,medium,0,Normal
+45,80,walking,medium,0,Normal
+21,95,resting,low,0,Normal
+37,62,resting,medium,0,Normal
+21,76,resting,low,0,Normal
+44,91,resting,medium,0,Normal
+29,82,walking,low,0,Normal
+38,94,walking,low,0,Normal
+50,62,resting,low,0,Normal
+38,60,walking,medium,0,Normal
+43,79,resting,low,0,Normal
+24,69,walking,medium,0,Normal
+36,87,walking,medium,0,Normal
+49,91,resting,low,0,Normal
+32,60,resting,medium,0,Normal
+41,67,resting,medium,0,Normal
+41,71,resting,medium,0,Normal
+28,79,resting,low,0,Normal
+35,88,resting,low,0,Normal
+24,82,walking,low,0,Normal
+27,65,resting,low,0,Normal
+20,79,walking,low,0,Normal
+27,68,walking,low,0,Normal
+34,66,walking,low,0,Normal
+46,86,resting,medium,0,Normal
+31,64,walking,medium,0,Normal
+25,63,resting,medium,0,Normal
+30,76,walking,low,0,Normal
+28,72,resting,medium,0,Normal
+43,82,walking,medium,0,Normal
+32,76,walking,low,0,Normal
+40,72,resting,medium,0,Normal
+44,86,walking,medium,0,Normal
+32,87,walking,low,0,Normal
+23,88,walking,low,0,Normal
+40,62,walking,medium,0,Normal
+37,95,walking,medium,0,Normal
+40,88,resting,medium,0,Normal
+65,46,resting,low,1,Bradycardia (Low BPM at Rest)
+71,160,exercise,high,1,Stress-Induced High Heart Rate
+65,140,exercise,high,1,Stress-Induced High Heart Rate
+65,142,exercise,high,1,Stress-Induced High Heart Rate
+61,46,resting,low,1,Bradycardia (Low BPM at Rest)
+78,105,resting,medium,1,Age-Related Cardiac Risk
+56,155,exercise,high,1,Stress-Induced High Heart Rate
+63,102,resting,high,1,Tachycardia (High BPM at Rest)
+62,145,exercise,high,1,Stress-Induced High Heart Rate
+69,108,resting,medium,1,Age-Related Cardiac Risk
+65,46,resting,low,1,Bradycardia (Low BPM at Rest)
+72,49,resting,low,1,Bradycardia (Low BPM at Rest)
+65,48,resting,low,1,Bradycardia (Low BPM at Rest)
+58,95,resting,medium,1,Age-Related Cardiac Risk
+70,105,resting,high,1,Tachycardia (High BPM at Rest)
+58,160,exercise,high,1,Stress-Induced High Heart Rate
+63,108,resting,high,1,Tachycardia (High BPM at Rest)
+79,106,resting,high,1,Tachycardia (High BPM at Rest)
+66,114,resting,high,1,Tachycardia (High BPM at Rest)
+63,159,exercise,high,1,Stress-Induced High Heart Rate
+68,45,resting,low,1,Bradycardia (Low BPM at Rest)
+58,103,resting,high,1,Tachycardia (High BPM at Rest)
+76,118,resting,high,1,Tachycardia (High BPM at Rest)
+58,105,resting,high,1,Tachycardia (High BPM at Rest)
+60,103,resting,high,1,Tachycardia (High BPM at Rest)
+60,48,resting,low,1,Bradycardia (Low BPM at Rest)
+72,50,resting,low,1,Bradycardia (Low BPM at Rest)
+68,107,resting,high,1,Tachycardia (High BPM at Rest)
+70,47,resting,low,1,Bradycardia (Low BPM at Rest)
+69,151,exercise,high,1,Stress-Induced High Heart Rate
+71,115,resting,high,1,Tachycardia (High BPM at Rest)
+68,100,resting,medium,1,Age-Related Cardiac Risk
+69,152,exercise,high,1,Stress-Induced High Heart Rate
+74,99,resting,medium,1,Age-Related Cardiac Risk
+69,104,resting,high,1,Tachycardia (High BPM at Rest)
+66,144,exercise,high,1,Stress-Induced High Heart Rate
+72,99,resting,medium,1,Age-Related Cardiac Risk
+62,49,resting,low,1,Bradycardia (Low BPM at Rest)
+69,45,resting,low,1,Bradycardia (Low BPM at Rest)
+59,49,resting,low,1,Bradycardia (Low BPM at Rest)
+62,46,resting,low,1,Bradycardia (Low BPM at Rest)
+75,105,resting,high,1,Tachycardia (High BPM at Rest)
+74,140,exercise,high,1,Stress-Induced High Heart Rate
+77,98,resting,medium,1,Age-Related Cardiac Risk
+74,109,resting,medium,1,Age-Related Cardiac Risk
+69,103,resting,high,1,Tachycardia (High BPM at Rest)
+63,97,resting,medium,1,Age-Related Cardiac Risk
+64,50,resting,low,1,Bradycardia (Low BPM at Rest)
+70,47,resting,low,1,Bradycardia (Low BPM at Rest)
+63,49,resting,low,1,Bradycardia (Low BPM at Rest)
+71,146,exercise,high,1,Stress-Induced High Heart Rate
+64,45,resting,low,1,Bradycardia (Low BPM at Rest)
+64,104,resting,medium,1,Age-Related Cardiac Risk
+61,147,exercise,high,1,Stress-Induced High Heart Rate
+56,115,resting,high,1,Tachycardia (High BPM at Rest)
+71,95,resting,medium,1,Age-Related Cardiac Risk
+66,159,exercise,high,1,Stress-Induced High Heart Rate
+71,159,exercise,high,1,Stress-Induced High Heart Rate
+65,108,resting,high,1,Tachycardia (High BPM at Rest)
+69,50,resting,low,1,Bradycardia (Low BPM at Rest)
+72,107,resting,medium,1,Age-Related Cardiac Risk
+55,119,resting,high,1,Tachycardia (High BPM at Rest)
+77,117,resting,high,1,Tachycardia (High BPM at Rest)
+77,155,exercise,high,1,Stress-Induced High Heart Rate
+61,108,resting,medium,1,Age-Related Cardiac Risk
+80,100,resting,medium,1,Age-Related Cardiac Risk
+62,100,resting,high,1,Tachycardia (High BPM at Rest)
+80,48,resting,low,1,Bradycardia (Low BPM at Rest)
+71,149,exercise,high,1,Stress-Induced High Heart Rate
+70,109,resting,high,1,Tachycardia (High BPM at Rest)
+59,108,resting,medium,1,Age-Related Cardiac Risk
+72,49,resting,low,1,Bradycardia (Low BPM at Rest)
+56,48,resting,low,1,Bradycardia (Low BPM at Rest)
+67,45,resting,low,1,Bradycardia (Low BPM at Rest)
+70,111,resting,high,1,Tachycardia (High BPM at Rest)
+75,157,exercise,high,1,Stress-Induced High Heart Rate
+57,151,exercise,high,1,Stress-Induced High Heart Rate
+65,103,resting,high,1,Tachycardia (High BPM at Rest)
+68,117,resting,high,1,Tachycardia (High BPM at Rest)
+71,107,resting,high,1,Tachycardia (High BPM at Rest)
+64,47,resting,low,1,Bradycardia (Low BPM at Rest)
+64,48,resting,low,1,Bradycardia (Low BPM at Rest)
+70,149,exercise,high,1,Stress-Induced High Heart Rate
+69,146,exercise,high,1,Stress-Induced High Heart Rate
+70,143,exercise,high,1,Stress-Induced High Heart Rate
+60,108,resting,medium,1,Age-Related Cardiac Risk
+71,101,resting,medium,1,Age-Related Cardiac Risk
+58,96,resting,medium,1,Age-Related Cardiac Risk
+59,105,resting,high,1,Tachycardia (High BPM at Rest)
+60,47,resting,low,1,Bradycardia (Low BPM at Rest)
+75,101,resting,medium,1,Age-Related Cardiac Risk
+72,156,exercise,high,1,Stress-Induced High Heart Rate
+56,110,resting,medium,1,Age-Related Cardiac Risk
+62,115,resting,high,1,Tachycardia (High BPM at Rest)
+75,45,resting,low,1,Bradycardia (Low BPM at Rest)
+63,143,exercise,high,1,Stress-Induced High Heart Rate
+77,48,resting,low,1,Bradycardia (Low BPM at Rest)
+62,102,resting,medium,1,Age-Related Cardiac Risk
+62,46,resting,low,1,Bradycardia (Low BPM at Rest)
+77,45,resting,low,1,Bradycardia (Low BPM at Rest)
+70,104,resting,high,1,Tachycardia (High BPM at Rest)
+68,148,exercise,high,1,Stress-Induced High Heart Rate
+74,114,resting,high,1,Tachycardia (High BPM at Rest)
+67,108,resting,medium,1,Age-Related Cardiac Risk
+76,118,resting,high,1,Tachycardia (High BPM at Rest)
+69,143,exercise,high,1,Stress-Induced High Heart Rate
+80,103,resting,medium,1,Age-Related Cardiac Risk
+63,110,resting,medium,1,Age-Related Cardiac Risk
+71,104,resting,medium,1,Age-Related Cardiac Risk
+77,149,exercise,high,1,Stress-Induced High Heart Rate
+80,48,resting,low,1,Bradycardia (Low BPM at Rest)
+62,48,resting,low,1,Bradycardia (Low BPM at Rest)
+74,95,resting,medium,1,Age-Related Cardiac Risk
+77,106,resting,high,1,Tachycardia (High BPM at Rest)
+70,142,exercise,high,1,Stress-Induced High Heart Rate
+72,110,resting,high,1,Tachycardia (High BPM at Rest)
+70,98,resting,medium,1,Age-Related Cardiac Risk
+59,48,resting,low,1,Bradycardia (Low BPM at Rest)
+67,47,resting,low,1,Bradycardia (Low BPM at Rest)
+59,140,exercise,high,1,Stress-Induced High Heart Rate
+76,152,exercise,high,1,Stress-Induced High Heart Rate
+62,96,resting,medium,1,Age-Related Cardiac Risk
+60,144,exercise,high,1,Stress-Induced High Heart Rate
+67,49,resting,low,1,Bradycardia (Low BPM at Rest)
+57,49,resting,low,1,Bradycardia (Low BPM at Rest)
+71,141,exercise,high,1,Stress-Induced High Heart Rate
+59,49,resting,low,1,Bradycardia (Low BPM at Rest)
+58,105,resting,medium,1,Age-Related Cardiac Risk
+59,103,resting,high,1,Tachycardia (High BPM at Rest)
+66,155,exercise,high,1,Stress-Induced High Heart Rate
+78,48,resting,low,1,Bradycardia (Low BPM at Rest)
+71,108,resting,high,1,Tachycardia (High BPM at Rest)
+55,142,exercise,high,1,Stress-Induced High Heart Rate
+69,156,exercise,high,1,Stress-Induced High Heart Rate
+73,141,exercise,high,1,Stress-Induced High Heart Rate
+67,120,resting,high,1,Tachycardia (High BPM at Rest)
+69,144,exercise,high,1,Stress-Induced High Heart Rate
+77,105,resting,medium,1,Age-Related Cardiac Risk
+80,47,resting,low,1,Bradycardia (Low BPM at Rest)
+58,49,resting,low,1,Bradycardia (Low BPM at Rest)
+65,47,resting,low,1,Bradycardia (Low BPM at Rest)
+68,45,resting,low,1,Bradycardia (Low BPM at Rest)
+71,100,resting,high,1,Tachycardia (High BPM at Rest)
+72,49,resting,low,1,Bradycardia (Low BPM at Rest)
+78,98,resting,medium,1,Age-Related Cardiac Risk
+78,49,resting,low,1,Bradycardia (Low BPM at Rest)
+80,105,resting,high,1,Tachycardia (High BPM at Rest)
+71,113,resting,high,1,Tachycardia (High BPM at Rest)
+72,47,resting,low,1,Bradycardia (Low BPM at Rest)
+69,99,resting,medium,1,Age-Related Cardiac Risk
+67,105,resting,medium,1,Age-Related Cardiac Risk
+56,158,exercise,high,1,Stress-Induced High Heart Rate
+58,143,exercise,high,1,Stress-Induced High Heart Rate
+73,115,resting,high,1,Tachycardia (High BPM at Rest)
+60,149,exercise,high,1,Stress-Induced High Heart Rate
+78,110,resting,medium,1,Age-Related Cardiac Risk
+61,147,exercise,high,1,Stress-Induced High Heart Rate
+78,47,resting,low,1,Bradycardia (Low BPM at Rest)
+71,112,resting,high,1,Tachycardia (High BPM at Rest)
+56,153,exercise,high,1,Stress-Induced High Heart Rate
+58,48,resting,low,1,Bradycardia (Low BPM at Rest)
+69,50,resting,low,1,Bradycardia (Low BPM at Rest)
+55,114,resting,high,1,Tachycardia (High BPM at Rest)
+76,46,resting,low,1,Bradycardia (Low BPM at Rest)
+71,113,resting,high,1,Tachycardia (High BPM at Rest)
+61,110,resting,medium,1,Age-Related Cardiac Risk
+59,141,exercise,high,1,Stress-Induced High Heart Rate
+70,102,resting,high,1,Tachycardia (High BPM at Rest)
+77,114,resting,high,1,Tachycardia (High BPM at Rest)
+66,110,resting,medium,1,Age-Related Cardiac Risk
+64,47,resting,low,1,Bradycardia (Low BPM at Rest)
+77,103,resting,high,1,Tachycardia (High BPM at Rest)
+74,104,resting,high,1,Tachycardia (High BPM at Rest)
+80,120,resting,high,1,Tachycardia (High BPM at Rest)
+63,154,exercise,high,1,Stress-Induced High Heart Rate
+55,50,resting,low,1,Bradycardia (Low BPM at Rest)
+62,96,resting,medium,1,Age-Related Cardiac Risk
+74,50,resting,low,1,Bradycardia (Low BPM at Rest)
+62,112,resting,high,1,Tachycardia (High BPM at Rest)
+66,143,exercise,high,1,Stress-Induced High Heart Rate
+63,109,resting,medium,1,Age-Related Cardiac Risk
+59,106,resting,medium,1,Age-Related Cardiac Risk
+60,112,resting,high,1,Tachycardia (High BPM at Rest)
+65,50,resting,low,1,Bradycardia (Low BPM at Rest)
+56,147,exercise,high,1,Stress-Induced High Heart Rate
+60,140,exercise,high,1,Stress-Induced High Heart Rate
+55,145,exercise,high,1,Stress-Induced High Heart Rate
+73,103,resting,high,1,Tachycardia (High BPM at Rest)
+72,115,resting,high,1,Tachycardia (High BPM at Rest)
+73,108,resting,medium,1,Age-Related Cardiac Risk
+58,96,resting,medium,1,Age-Related Cardiac Risk
+61,105,resting,high,1,Tachycardia (High BPM at Rest)
+62,45,resting,low,1,Bradycardia (Low BPM at Rest)
+71,46,resting,low,1,Bradycardia (Low BPM at Rest)
+70,108,resting,medium,1,Age-Related Cardiac Risk
+64,114,resting,high,1,Tachycardia (High BPM at Rest)
+62,153,exercise,high,1,Stress-Induced High Heart Rate
+55,105,resting,medium,1,Age-Related Cardiac Risk
+66,117,resting,high,1,Tachycardia (High BPM at Rest)
+68,147,exercise,high,1,Stress-Induced High Heart Rate
+58,106,resting,high,1,Tachycardia (High BPM at Rest)
+63,47,resting,low,1,Bradycardia (Low BPM at Rest)
+57,47,resting,low,1,Bradycardia (Low BPM at Rest)
+76,144,exercise,high,1,Stress-Induced High Heart Rate
+74,45,resting,low,1,Bradycardia (Low BPM at Rest)
+68,96,resting,medium,1,Age-Related Cardiac Risk
+58,108,resting,high,1,Tachycardia (High BPM at Rest)
+68,48,resting,low,1,Bradycardia (Low BPM at Rest)
+76,46,resting,low,1,Bradycardia (Low BPM at Rest)
+76,151,exercise,high,1,Stress-Induced High Heart Rate
+75,96,resting,medium,1,Age-Related Cardiac Risk
+60,105,resting,medium,1,Age-Related Cardiac Risk
+58,142,exercise,high,1,Stress-Induced High Heart Rate
+62,46,resting,low,1,Bradycardia (Low BPM at Rest)
+66,47,resting,low,1,Bradycardia (Low BPM at Rest)
+73,50,resting,low,1,Bradycardia (Low BPM at Rest)
+72,158,exercise,high,1,Stress-Induced High Heart Rate
+69,107,resting,medium,1,Age-Related Cardiac Risk
+64,47,resting,low,1,Bradycardia (Low BPM at Rest)
+68,46,resting,low,1,Bradycardia (Low BPM at Rest)
+62,108,resting,high,1,Tachycardia (High BPM at Rest)
+57,157,exercise,high,1,Stress-Induced High Heart Rate
+78,99,resting,medium,1,Age-Related Cardiac Risk
+56,96,resting,medium,1,Age-Related Cardiac Risk
+63,106,resting,high,1,Tachycardia (High BPM at Rest)
+58,156,exercise,high,1,Stress-Induced High Heart Rate
+59,50,resting,low,1,Bradycardia (Low BPM at Rest)
+78,118,resting,high,1,Tachycardia (High BPM at Rest)
+64,110,resting,high,1,Tachycardia (High BPM at Rest)
+58,48,resting,low,1,Bradycardia (Low BPM at Rest)
+77,102,resting,medium,1,Age-Related Cardiac Risk
+64,158,exercise,high,1,Stress-Induced High Heart Rate
+75,104,resting,medium,1,Age-Related Cardiac Risk
+70,112,resting,high,1,Tachycardia (High BPM at Rest)
+62,49,resting,low,1,Bradycardia (Low BPM at Rest)
+59,151,exercise,high,1,Stress-Induced High Heart Rate
+72,101,resting,medium,1,Age-Related Cardiac Risk
+68,97,resting,medium,1,Age-Related Cardiac Risk
+61,46,resting,low,1,Bradycardia (Low BPM at Rest)
+70,116,resting,high,1,Tachycardia (High BPM at Rest)
+75,47,resting,low,1,Bradycardia (Low BPM at Rest)
+76,153,exercise,high,1,Stress-Induced High Heart Rate
+71,106,resting,high,1,Tachycardia (High BPM at Rest)
+75,49,resting,low,1,Bradycardia (Low BPM at Rest)
+57,146,exercise,high,1,Stress-Induced High Heart Rate
+66,100,resting,medium,1,Age-Related Cardiac Risk
+58,48,resting,low,1,Bradycardia (Low BPM at Rest)
+75,49,resting,low,1,Bradycardia (Low BPM at Rest)
+62,101,resting,medium,1,Age-Related Cardiac Risk
+65,102,resting,medium,1,Age-Related Cardiac Risk
+69,110,resting,medium,1,Age-Related Cardiac Risk
+73,110,resting,high,1,Tachycardia (High BPM at Rest)
+74,49,resting,low,1,Bradycardia (Low BPM at Rest)
+80,47,resting,low,1,Bradycardia (Low BPM at Rest)
+75,143,exercise,high,1,Stress-Induced High Heart Rate
+66,48,resting,low,1,Bradycardia (Low BPM at Rest)
+58,111,resting,high,1,Tachycardia (High BPM at Rest)
+72,46,resting,low,1,Bradycardia (Low BPM at Rest)
+71,49,resting,low,1,Bradycardia (Low BPM at Rest)
+71,107,resting,high,1,Tachycardia (High BPM at Rest)
+63,154,exercise,high,1,Stress-Induced High Heart Rate
+80,147,exercise,high,1,Stress-Induced High Heart Rate
+72,103,resting,medium,1,Age-Related Cardiac Risk
+70,99,resting,medium,1,Age-Related Cardiac Risk
+68,160,exercise,high,1,Stress-Induced High Heart Rate
+74,105,resting,medium,1,Age-Related Cardiac Risk
+70,157,exercise,high,1,Stress-Induced High Heart Rate
+60,105,resting,medium,1,Age-Related Cardiac Risk
+77,104,resting,medium,1,Age-Related Cardiac Risk
+56,103,resting,medium,1,Age-Related Cardiac Risk
+65,107,resting,high,1,Tachycardia (High BPM at Rest)
+58,97,resting,medium,1,Age-Related Cardiac Risk
+75,154,exercise,high,1,Stress-Induced High Heart Rate
+65,140,exercise,high,1,Stress-Induced High Heart Rate
+72,47,resting,low,1,Bradycardia (Low BPM at Rest)
+57,105,resting,medium,1,Age-Related Cardiac Risk
+77,45,resting,low,1,Bradycardia (Low BPM at Rest)
+64,110,resting,medium,1,Age-Related Cardiac Risk
+71,46,resting,low,1,Bradycardia (Low BPM at Rest)
+57,45,resting,low,1,Bradycardia (Low BPM at Rest)
+78,45,resting,low,1,Bradycardia (Low BPM at Rest)
+76,100,resting,high,1,Tachycardia (High BPM at Rest)
+78,105,resting,high,1,Tachycardia (High BPM at Rest)
+75,117,resting,high,1,Tachycardia (High BPM at Rest)
+56,102,resting,high,1,Tachycardia (High BPM at Rest)
+74,50,resting,low,1,Bradycardia (Low BPM at Rest)
+57,110,resting,medium,1,Age-Related Cardiac Risk
+76,47,resting,low,1,Bradycardia (Low BPM at Rest)
+63,119,resting,high,1,Tachycardia (High BPM at Rest)
+62,107,resting,high,1,Tachycardia (High BPM at Rest)
+58,95,resting,medium,1,Age-Related Cardiac Risk
+63,118,resting,high,1,Tachycardia (High BPM at Rest)
+79,50,resting,low,1,Bradycardia (Low BPM at Rest)
+56,154,exercise,high,1,Stress-Induced High Heart Rate
+58,147,exercise,high,1,Stress-Induced High Heart Rate
+74,155,exercise,high,1,Stress-Induced High Heart Rate
+63,147,exercise,high,1,Stress-Induced High Heart Rate
+69,106,resting,medium,1,Age-Related Cardiac Risk
+68,96,resting,medium,1,Age-Related Cardiac Risk
+55,100,resting,high,1,Tachycardia (High BPM at Rest)
+57,45,resting,low,1,Bradycardia (Low BPM at Rest)
+72,101,resting,medium,1,Age-Related Cardiac Risk
+63,98,resting,medium,1,Age-Related Cardiac Risk
+59,109,resting,medium,1,Age-Related Cardiac Risk
+76,108,resting,medium,1,Age-Related Cardiac Risk
+59,147,exercise,high,1,Stress-Induced High Heart Rate
+68,109,resting,medium,1,Age-Related Cardiac Risk
+55,45,resting,low,1,Bradycardia (Low BPM at Rest)
+58,109,resting,medium,1,Age-Related Cardiac Risk
+62,106,resting,high,1,Tachycardia (High BPM at Rest)
+66,103,resting,high,1,Tachycardia (High BPM at Rest)
+56,158,exercise,high,1,Stress-Induced High Heart Rate
+80,47,resting,low,1,Bradycardia (Low BPM at Rest)
+65,148,exercise,high,1,Stress-Induced High Heart Rate
+64,149,exercise,high,1,Stress-Induced High Heart Rate
+58,106,resting,medium,1,Age-Related Cardiac Risk
+76,142,exercise,high,1,Stress-Induced High Heart Rate
+73,157,exercise,high,1,Stress-Induced High Heart Rate
+68,101,resting,high,1,Tachycardia (High BPM at Rest)
+67,45,resting,low,1,Bradycardia (Low BPM at Rest)
+66,106,resting,medium,1,Age-Related Cardiac Risk
+68,108,resting,medium,1,Age-Related Cardiac Risk
+72,104,resting,high,1,Tachycardia (High BPM at Rest)
+76,120,resting,high,1,Tachycardia (High BPM at Rest)
+60,101,resting,medium,1,Age-Related Cardiac Risk
+67,149,exercise,high,1,Stress-Induced High Heart Rate
+75,157,exercise,high,1,Stress-Induced High Heart Rate
+80,97,resting,medium,1,Age-Related Cardiac Risk
+75,100,resting,medium,1,Age-Related Cardiac Risk
+74,111,resting,high,1,Tachycardia (High BPM at Rest)
+73,115,resting,high,1,Tachycardia (High BPM at Rest)
+57,154,exercise,high,1,Stress-Induced High Heart Rate
+71,111,resting,high,1,Tachycardia (High BPM at Rest)
+79,45,resting,low,1,Bradycardia (Low BPM at Rest)
+64,146,exercise,high,1,Stress-Induced High Heart Rate
+68,106,resting,medium,1,Age-Related Cardiac Risk
+60,103,resting,high,1,Tachycardia (High BPM at Rest)
+70,48,resting,low,1,Bradycardia (Low BPM at Rest)
+61,153,exercise,high,1,Stress-Induced High Heart Rate
+65,111,resting,high,1,Tachycardia (High BPM at Rest)
+71,46,resting,low,1,Bradycardia (Low BPM at Rest)
+78,159,exercise,high,1,Stress-Induced High Heart Rate
+73,50,resting,low,1,Bradycardia (Low BPM at Rest)
+63,146,exercise,high,1,Stress-Induced High Heart Rate
+79,114,resting,high,1,Tachycardia (High BPM at Rest)
+64,155,exercise,high,1,Stress-Induced High Heart Rate
+70,112,resting,high,1,Tachycardia (High BPM at Rest)
+68,97,resting,medium,1,Age-Related Cardiac Risk
+75,45,resting,low,1,Bradycardia (Low BPM at Rest)
+78,96,resting,medium,1,Age-Related Cardiac Risk
+76,102,resting,high,1,Tachycardia (High BPM at Rest)
+71,120,resting,high,1,Tachycardia (High BPM at Rest)
+64,98,resting,medium,1,Age-Related Cardiac Risk
+60,105,resting,high,1,Tachycardia (High BPM at Rest)
+77,107,resting,high,1,Tachycardia (High BPM at Rest)
+69,104,resting,medium,1,Age-Related Cardiac Risk
+58,143,exercise,high,1,Stress-Induced High Heart Rate
+61,109,resting,medium,1,Age-Related Cardiac Risk
+65,120,resting,high,1,Tachycardia (High BPM at Rest)
+63,45,resting,low,1,Bradycardia (Low BPM at Rest)
+66,140,exercise,high,1,Stress-Induced High Heart Rate
+78,104,resting,medium,1,Age-Related Cardiac Risk
+72,110,resting,high,1,Tachycardia (High BPM at Rest)
+74,45,resting,low,1,Bradycardia (Low BPM at Rest)
+72,49,resting,low,1,Bradycardia (Low BPM at Rest)
+64,110,resting,medium,1,Age-Related Cardiac Risk
+73,104,resting,high,1,Tachycardia (High BPM at Rest)
+73,112,resting,high,1,Tachycardia (High BPM at Rest)
+55,95,resting,medium,1,Age-Related Cardiac Risk
+73,50,resting,low,1,Bradycardia (Low BPM at Rest)
+62,120,resting,high,1,Tachycardia (High BPM at Rest)
+71,148,exercise,high,1,Stress-Induced High Heart Rate
+63,95,resting,medium,1,Age-Related Cardiac Risk
+70,106,resting,high,1,Tachycardia (High BPM at Rest)
+68,156,exercise,high,1,Stress-Induced High Heart Rate
+74,49,resting,low,1,Bradycardia (Low BPM at Rest)
+76,110,resting,medium,1,Age-Related Cardiac Risk
+80,109,resting,high,1,Tachycardia (High BPM at Rest)
+72,103,resting,medium,1,Age-Related Cardiac Risk
+55,98,resting,medium,1,Age-Related Cardiac Risk
+55,160,exercise,high,1,Stress-Induced High Heart Rate
+73,48,resting,low,1,Bradycardia (Low BPM at Rest)
+80,107,resting,high,1,Tachycardia (High BPM at Rest)
+72,155,exercise,high,1,Stress-Induced High Heart Rate
+63,102,resting,high,1,Tachycardia (High BPM at Rest)
+76,155,exercise,high,1,Stress-Induced High Heart Rate
+62,47,resting,low,1,Bradycardia (Low BPM at Rest)
+77,118,resting,high,1,Tachycardia (High BPM at Rest)
+77,144,exercise,high,1,Stress-Induced High Heart Rate
+77,101,resting,medium,1,Age-Related Cardiac Risk
+80,50,resting,low,1,Bradycardia (Low BPM at Rest)
+57,99,resting,medium,1,Age-Related Cardiac Risk
+67,106,resting,high,1,Tachycardia (High BPM at Rest)
+66,100,resting,medium,1,Age-Related Cardiac Risk
+80,101,resting,medium,1,Age-Related Cardiac Risk
+67,45,resting,low,1,Bradycardia (Low BPM at Rest)
+65,152,exercise,high,1,Stress-Induced High Heart Rate
+60,46,resting,low,1,Bradycardia (Low BPM at Rest)
+64,97,resting,medium,1,Age-Related Cardiac Risk
+70,146,exercise,high,1,Stress-Induced High Heart Rate
+75,110,resting,high,1,Tachycardia (High BPM at Rest)
+56,100,resting,high,1,Tachycardia (High BPM at Rest)
+69,102,resting,medium,1,Age-Related Cardiac Risk
+59,99,resting,medium,1,Age-Related Cardiac Risk
+59,104,resting,medium,1,Age-Related Cardiac Risk
+65,95,resting,medium,1,Age-Related Cardiac Risk
+72,116,resting,high,1,Tachycardia (High BPM at Rest)
+63,160,exercise,high,1,Stress-Induced High Heart Rate
+65,148,exercise,high,1,Stress-Induced High Heart Rate
+57,117,resting,high,1,Tachycardia (High BPM at Rest)
+72,145,exercise,high,1,Stress-Induced High Heart Rate
+60,109,resting,medium,1,Age-Related Cardiac Risk
+59,48,resting,low,1,Bradycardia (Low BPM at Rest)
+75,45,resting,low,1,Bradycardia (Low BPM at Rest)
+72,150,exercise,high,1,Stress-Induced High Heart Rate
+57,108,resting,high,1,Tachycardia (High BPM at Rest)
+56,48,resting,low,1,Bradycardia (Low BPM at Rest)
+62,50,resting,low,1,Bradycardia (Low BPM at Rest)
+56,109,resting,medium,1,Age-Related Cardiac Risk
+75,50,resting,low,1,Bradycardia (Low BPM at Rest)
+59,147,exercise,high,1,Stress-Induced High Heart Rate
+62,101,resting,high,1,Tachycardia (High BPM at Rest)
+69,107,resting,medium,1,Age-Related Cardiac Risk
+57,50,resting,low,1,Bradycardia (Low BPM at Rest)
+67,110,resting,high,1,Tachycardia (High BPM at Rest)
+61,104,resting,medium,1,Age-Related Cardiac Risk
+80,115,resting,high,1,Tachycardia (High BPM at Rest)
+58,50,resting,low,1,Bradycardia (Low BPM at Rest)
+72,95,resting,medium,1,Age-Related Cardiac Risk
+55,141,exercise,high,1,Stress-Induced High Heart Rate
+64,99,resting,medium,1,Age-Related Cardiac Risk
+55,141,exercise,high,1,Stress-Induced High Heart Rate
+80,96,resting,medium,1,Age-Related Cardiac Risk
+61,159,exercise,high,1,Stress-Induced High Heart Rate
+76,140,exercise,high,1,Stress-Induced High Heart Rate
+60,158,exercise,high,1,Stress-Induced High Heart Rate
+69,108,resting,medium,1,Age-Related Cardiac Risk
+77,103,resting,medium,1,Age-Related Cardiac Risk
+68,49,resting,low,1,Bradycardia (Low BPM at Rest)
+73,141,exercise,high,1,Stress-Induced High Heart Rate
+76,114,resting,high,1,Tachycardia (High BPM at Rest)
+72,95,resting,medium,1,Age-Related Cardiac Risk
+63,120,resting,high,1,Tachycardia (High BPM at Rest)
+63,48,resting,low,1,Bradycardia (Low BPM at Rest)
+76,153,exercise,high,1,Stress-Induced High Heart Rate
+74,103,resting,medium,1,Age-Related Cardiac Risk
+77,50,resting,low,1,Bradycardia (Low BPM at Rest)
+60,47,resting,low,1,Bradycardia (Low BPM at Rest)
+71,102,resting,high,1,Tachycardia (High BPM at Rest)
+55,120,resting,high,1,Tachycardia (High BPM at Rest)
+59,98,resting,medium,1,Age-Related Cardiac Risk
+77,118,resting,high,1,Tachycardia (High BPM at Rest)
+73,110,resting,medium,1,Age-Related Cardiac Risk
+78,140,exercise,high,1,Stress-Induced High Heart Rate
+60,105,resting,medium,1,Age-Related Cardiac Risk
+57,106,resting,medium,1,Age-Related Cardiac Risk
+67,50,resting,low,1,Bradycardia (Low BPM at Rest)
+61,49,resting,low,1,Bradycardia (Low BPM at Rest)
+60,112,resting,high,1,Tachycardia (High BPM at Rest)
+77,99,resting,medium,1,Age-Related Cardiac Risk
+72,99,resting,medium,1,Age-Related Cardiac Risk
+56,104,resting,medium,1,Age-Related Cardiac Risk
+77,109,resting,high,1,Tachycardia (High BPM at Rest)
+62,147,exercise,high,1,Stress-Induced High Heart Rate
+55,45,resting,low,1,Bradycardia (Low BPM at Rest)
+79,106,resting,medium,1,Age-Related Cardiac Risk
+59,98,resting,medium,1,Age-Related Cardiac Risk
+63,48,resting,low,1,Bradycardia (Low BPM at Rest)
+66,50,resting,low,1,Bradycardia (Low BPM at Rest)
+56,105,resting,high,1,Tachycardia (High BPM at Rest)
+77,103,resting,medium,1,Age-Related Cardiac Risk
+72,158,exercise,high,1,Stress-Induced High Heart Rate
+74,98,resting,medium,1,Age-Related Cardiac Risk
+63,156,exercise,high,1,Stress-Induced High Heart Rate
+78,152,exercise,high,1,Stress-Induced High Heart Rate
+66,143,exercise,high,1,Stress-Induced High Heart Rate
+64,45,resting,low,1,Bradycardia (Low BPM at Rest)
+59,50,resting,low,1,Bradycardia (Low BPM at Rest)
+74,120,resting,high,1,Tachycardia (High BPM at Rest)
+56,106,resting,medium,1,Age-Related Cardiac Risk
+64,117,resting,high,1,Tachycardia (High BPM at Rest)
+80,104,resting,medium,1,Age-Related Cardiac Risk
+74,100,resting,medium,1,Age-Related Cardiac Risk
+79,144,exercise,high,1,Stress-Induced High Heart Rate
+72,47,resting,low,1,Bradycardia (Low BPM at Rest)
+71,144,exercise,high,1,Stress-Induced High Heart Rate
+69,48,resting,low,1,Bradycardia (Low BPM at Rest)
+64,47,resting,low,1,Bradycardia (Low BPM at Rest)
+65,144,exercise,high,1,Stress-Induced High Heart Rate
+62,113,resting,high,1,Tachycardia (High BPM at Rest)
+74,47,resting,low,1,Bradycardia (Low BPM at Rest)
+68,48,resting,low,1,Bradycardia (Low BPM at Rest)
+62,117,resting,high,1,Tachycardia (High BPM at Rest)
+59,148,exercise,high,1,Stress-Induced High Heart Rate
+72,105,resting,medium,1,Age-Related Cardiac Risk
+72,108,resting,medium,1,Age-Related Cardiac Risk
+61,157,exercise,high,1,Stress-Induced High Heart Rate
+77,148,exercise,high,1,Stress-Induced High Heart Rate
+58,49,resting,low,1,Bradycardia (Low BPM at Rest)
+65,159,exercise,high,1,Stress-Induced High Heart Rate

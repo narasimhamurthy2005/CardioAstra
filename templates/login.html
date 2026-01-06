@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CardioAstra PRO | Clinical Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-deep: #0b0f1a;
+            --sidebar-bg: #111827;
+            --card-glass: rgba(17, 24, 39, 0.8);
+            --accent-emerald: #10b981; 
+            --accent-blue: #3b82f6;    
+            --text-high: #f9fafb;
+            --text-low: #9ca3af;
+            --danger: #ef4444;
+            --border: rgba(255, 255, 255, 0.06);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Plus Jakarta Sans', sans-serif; }
+
+        body {
+            height: 100vh;
+            background: var(--bg-deep);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: var(--text-high);
+            background-image: radial-gradient(circle at 50% 50%, #111827 0%, #0b0f1a 100%);
+        }
+
+        .wrapper {
+            width: 850px;
+            height: 500px;
+            background: var(--sidebar-bg);
+            display: flex;
+            border-radius: 24px;
+            box-shadow: 0 25px 60px rgba(0,0,0,0.6);
+            overflow: hidden;
+            border: 1px solid var(--border);
+        }
+
+        .info-panel {
+            width: 45%;
+            background: rgba(255, 255, 255, 0.02);
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            border-right: 1px solid var(--border);
+        }
+
+        .brand { font-size: 1.5rem; font-weight: 800; margin-bottom: 20px; }
+        .brand span { color: var(--accent-emerald); }
+        .info-panel p { color: var(--text-low); line-height: 1.6; font-size: 0.95rem; }
+
+        .form-panel { width: 55%; padding: 40px; display: flex; align-items: center; justify-content: center; }
+        .form-box { width: 100%; max-width: 320px; }
+
+        h2 { font-size: 1.4rem; font-weight: 700; margin-bottom: 30px; letter-spacing: -0.5px; }
+
+        .hidden { display: none; }
+
+        input {
+            width: 100%;
+            padding: 14px 16px;
+            background: #0b0f1a;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            color: white;
+            margin-bottom: 15px;
+            outline: none;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+
+        input:focus { border-color: var(--accent-emerald); box-shadow: 0 0 0 4px rgba(16, 185, 129, 0.1); }
+
+        button {
+            width: 100%;
+            padding: 14px;
+            background: var(--accent-emerald);
+            border: none;
+            color: #000;
+            font-weight: 800;
+            border-radius: 12px;
+            margin-top: 10px;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            transition: all 0.3s ease;
+        }
+
+        button:hover {
+            background: #14d394;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(16, 185, 129, 0.2);
+        }
+
+        .message { text-align: center; margin-top: 15px; font-size: 13px; color: var(--danger); min-height: 20px; }
+
+        .switch {
+            text-align: center;
+            margin-top: 25px;
+            font-size: 13px;
+            color: var(--text-low);
+        }
+
+        .switch span {
+            color: var(--accent-blue);
+            cursor: pointer;
+            font-weight: 700;
+            text-decoration: underline;
+            text-underline-offset: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="wrapper">
+    <div class="info-panel">
+        <div class="brand">CARDIO<span>ASTRA PRO</span></div>
+        <p>Enter clinical credentials to access real-time telemetry, neurological load data, and vascular analytics.</p>
+    </div>
+
+    <div class="form-panel">
+        <div class="form-box">
+            <div id="loginBox">
+                <h2>Clinical Sign In</h2>
+                <input type="email" id="loginUser" placeholder="Medical Email">
+                <input type="password" id="loginPass" placeholder="Password">
+                <button id="loginBtn">Authorize Access</button>
+                <div class="message" id="loginMsg"></div>
+                <div class="switch">New Practitioner? <span id="toRegister">Register Portal</span></div>
+            </div>
+
+            <div id="registerBox" class="hidden">
+                <h2>System Registration</h2>
+                <input type="email" id="regUser" placeholder="Email Address">
+                <input type="password" id="regPass" placeholder="Create Password">
+                <button id="regBtn">Create Profile</button>
+                <div class="message" id="regMsg"></div>
+                <div class="switch">Existing User? <span id="toLogin">Back to Sign In</span></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="module">
+    // FIREBASE IMPORTS
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+    import {
+      getAuth,
+      createUserWithEmailAndPassword,
+      signInWithEmailAndPassword
+    } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+
+    // PASTE YOUR CONFIG HERE
+    const firebaseConfig = {
+    apiKey: "AIzaSyCa4FsBn3DI8o1O9ztOxIbXA_ubcL6LVno",
+    authDomain: "login-project-231bc.firebaseapp.com",
+    projectId: "login-project-231bc",
+    storageBucket: "login-project-231bc.appspot.com",
+    messagingSenderId: "730941230018",
+    appId: "1:730941230018:web:c3a4cfb74a42c1e652245b"
+   };
+
+    const app = initializeApp(firebaseConfig);
+    const auth = getAuth(app);
+
+    // DOM ELEMENTS
+    const loginBox = document.getElementById('loginBox');
+    const registerBox = document.getElementById('registerBox');
+    const loginMsg = document.getElementById('loginMsg');
+    const regMsg = document.getElementById('regMsg');
+
+    // UI NAVIGATION
+    document.getElementById('toRegister').onclick = () => {
+        loginBox.classList.add("hidden");
+        registerBox.classList.remove("hidden");
+    };
+
+    document.getElementById('toLogin').onclick = () => {
+        registerBox.classList.add("hidden");
+        loginBox.classList.remove("hidden");
+    };
+
+    // REGISTER LOGIC
+    document.getElementById('regBtn').onclick = () => {
+        const email = document.getElementById('regUser').value;
+        const password = document.getElementById('regPass').value;
+
+        if(!email || !password) {
+            regMsg.innerText = "Please fill all clinical fields";
+            return;
+        }
+
+        createUserWithEmailAndPassword(auth, email, password)
+            .then(() => {
+                regMsg.style.color = "var(--accent-emerald)";
+                regMsg.innerText = "Registration successful! Redirecting...";
+                setTimeout(() => document.getElementById('toLogin').click(), 1500);
+            })
+            .catch(err => regMsg.innerText = err.message);
+    };
+
+    // LOGIN LOGIC
+    document.getElementById('loginBtn').onclick = () => {
+        const email = document.getElementById('loginUser').value;
+        const password = document.getElementById('loginPass').value;
+
+        signInWithEmailAndPassword(auth, email, password)
+            .then(() => {
+                // SUCCESS: Redirect to index.html
+                window.location.href = "";
+            })
+            .catch(err => {
+                loginMsg.innerText = "Authentication failed: " + err.message;
+            });
+    };
+</script>
+
+</body>
+</html>
