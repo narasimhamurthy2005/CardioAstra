@@ -16,7 +16,7 @@ The project uses machine learning to identify risk patterns and provides results
 📁 Supports CSV-based heart rate datasets
 
 
-# Technologies Used
+# Technologies Used for the project
 
 -- Python
 
